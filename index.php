@@ -59,4 +59,25 @@
   // control flow
   // loops
   // functions
+
+
+
+  //Swap two variables using a temp
+  $a = 10;
+  $b = 20;
+  $temp = $a;
+  $a = $b;
+  $b = $temp;
+  echo $a;
+  echo $b;
+
+
+  
+
+
+  var_dump($name);
+  var_dump($age);
+  var_dump($height);
+  var_dump($is_married);
+  var_dump($hobbies);
 ?>
