@@ -30,8 +30,8 @@
 
         }else {
             echo "Login failed";
-        }
-    }
+        };
+    };
     ?>
         
     </form>
